@@ -1,0 +1,51 @@
+body {
+	font-family: verdana, arial;
+	font-size: 10pt;
+	color: black;
+	background-color: #DCDCDC;
+}
+td {
+	font-family: verdana, arial;
+	font-size: 10pt;
+}
+hr {
+	color: #808080;
+	height: 1px;
+}
+.articleTable {
+	border: #808080 solid 1px;
+	background-color: white;
+	padding: 5px;
+}
+.bigText {
+	font-family: verdana, arial;
+	font-size: 18pt;
+	font-weight: bold;
+	color: black;
+	padding-bottom: 10px;
+}
+.pageHeadline {
+	font-size: 12pt;
+	font-weight: bold;
+}
+.requiredWarning {
+	font-family: verdana, arial;
+	font-size: 8pt;
+	color: red;
+}
+.errorText {
+	font-weight: bold;
+	color: red;
+}
+.subtle {
+	font-size: 8pt;
+	color: #808080;
+}
+.formBox {
+	color: #000000;
+	border-bottom:1px solid #cccccc;
+	border-top:1px solid #cccccc;
+	border-left:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	width: 350px;
+}
